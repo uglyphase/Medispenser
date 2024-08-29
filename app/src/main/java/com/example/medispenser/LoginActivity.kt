@@ -45,6 +45,8 @@ class LoginActivity : AppCompatActivity() {
         }
 
     }
+    //change 1
+    //change 2
 
     private fun loginUser(username: String, password: String){
         databaseReference.orderByChild("username").equalTo(username).addListenerForSingleValueEvent(object : ValueEventListener{
