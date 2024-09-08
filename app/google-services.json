@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "149757006449",
+    "project_id": "medispenser-f8845",
+    "storage_bucket": "medispenser-f8845.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149757006449:android:18cbfd2b5246ac7d8881d0",
+        "android_client_info": {
+          "package_name": "com.example.medispenser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXdcYenoqu4cGXpr9cSATT9rVtEd3e4SI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
